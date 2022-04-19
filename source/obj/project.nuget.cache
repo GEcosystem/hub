@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FVOwlRXlExnNR5nCAgfzy7nCrU377BwUJ54nzfAi/IbHqD8tm2cPqCFCUA6n6xN6y/tufMI6CeqE2JPQJJu4lw==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\Visual Studio\\GEcosystem Hub\\GEcosystem Hub\\GEcosystem Hub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\materialdesigncolors\\2.0.5\\materialdesigncolors.2.0.5.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\materialdesignthemes\\4.4.0\\materialdesignthemes.4.4.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

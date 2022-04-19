@@ -1,0 +1,27 @@
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\bin\Debug\netcoreapp3.1\GEcosystem Hub.exe
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\bin\Debug\netcoreapp3.1\GEcosystem Hub.deps.json
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\bin\Debug\netcoreapp3.1\GEcosystem Hub.runtimeconfig.json
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\bin\Debug\netcoreapp3.1\GEcosystem Hub.runtimeconfig.dev.json
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\bin\Debug\netcoreapp3.1\GEcosystem Hub.dll
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\bin\Debug\netcoreapp3.1\GEcosystem Hub.pdb
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\obj\Debug\netcoreapp3.1\GEcosystem Hub.csproj.AssemblyReference.cache
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\obj\Debug\netcoreapp3.1\GEcosystem Hub_MarkupCompile.cache
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\obj\Debug\netcoreapp3.1\GEcosystem Hub_MarkupCompile.lref
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\obj\Debug\netcoreapp3.1\App.baml
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\obj\Debug\netcoreapp3.1\GEcosystem Hub.g.resources
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\obj\Debug\netcoreapp3.1\GEcosystem Hub.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\obj\Debug\netcoreapp3.1\GEcosystem Hub.AssemblyInfoInputs.cache
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\obj\Debug\netcoreapp3.1\GEcosystem Hub.AssemblyInfo.cs
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\obj\Debug\netcoreapp3.1\GEcosystem Hub.csproj.CoreCompileInputs.cache
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\obj\Debug\netcoreapp3.1\GEcosystem Hub.csproj.CopyComplete
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\obj\Debug\netcoreapp3.1\GEcosystem Hub.dll
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\obj\Debug\netcoreapp3.1\GEcosystem Hub.pdb
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\obj\Debug\netcoreapp3.1\GEcosystem Hub.genruntimeconfig.cache
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\obj\Debug\netcoreapp3.1\SoftwareManager.g.cs
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\obj\Debug\netcoreapp3.1\SoftwareManager.baml
+D:\Coding\Visual Studio\GEcosystem Hub\GEcosystem Hub\bin\Debug\netcoreapp3.1\Assets\Icons\Chrome.png
